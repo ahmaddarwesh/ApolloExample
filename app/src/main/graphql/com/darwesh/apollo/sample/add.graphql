@@ -1,0 +1,6 @@
+query add {
+    getHeros{
+        id
+        name
+    }
+}
